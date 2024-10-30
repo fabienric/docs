@@ -20,10 +20,7 @@ Actions within your infrastructure can be automated using the vSphere SDK.
 > The code examples below were created using an older version of Python. Please note that you may need to adjust your commands accordingly if your environment uses Debian 12 or recent OS versions. In this case, we recommend that you download recent versions of Python from 3.11 onwards.
 >
 
-
 ### Python
-
-> ![warning]
 
 #### Setting up the environment
 
