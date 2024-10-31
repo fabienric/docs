@@ -1,7 +1,7 @@
 ---
 title: Deploying a basic infrastructure with OpenStack Heat (BETA)
 excerpt: Find out how to get started with Heat and stacks by deploying your first infrastructure
-updated: 2022-03-30
+updated: 2024-10-30
 ---
 
 ## Objective
@@ -19,11 +19,15 @@ We will help you get started using Heat, and the *stacks* that represent orchest
 
 ## Requirements
 
-- access to the [OVHcloud Control Panel](/links/manager){.external}
-- a Public Cloud project
-- an OpenStack user account
-- how to manipulate YAML files
-- sign up your Public Cloud project for the beta test
+> [!warning]
+> The code examples below were created using Pythin 2.7. Please note that you may need to adjust your commands accordingly if your environment uses Debian 12. In this case, we recommend that you download the latest version of Python 3.
+>
+
+- Access to the [OVHcloud Control Panel](/links/manager)
+- A [Public Cloud project](/links/public-cloud/public-cloud)
+- An [OpenStack user account](/pages/public_cloud/compute/create_and_delete_a_user) (optional)
+- Know how to manipulate YAML files
+- Sign up your Public Cloud project for the beta test
 
 ## Instructions
 

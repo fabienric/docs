@@ -1,7 +1,7 @@
 ---
 title: Using the vSphere SDK
 excerpt: Find out how to implement and use the vSphere SDK
-updated: 2024-10-29
+updated: 2024-10-30
 ---
 
 ## Objective
@@ -17,7 +17,7 @@ Actions within your infrastructure can be automated using the vSphere SDK.
 
 
 > [!warning]
-> The code examples below were created using an older version of Python. Please note that you may need to adjust your commands accordingly if your environment uses Debian 12 or recent OS versions. In this case, we recommend that you download recent versions of Python from 3.11 onwards.
+> The code examples below were created using Pythin 2.7. Please note that you may need to adjust your commands accordingly if your environment uses Debian 12. In this case, we recommend that you download the latest version of Python 3.
 >
 
 ### Python
