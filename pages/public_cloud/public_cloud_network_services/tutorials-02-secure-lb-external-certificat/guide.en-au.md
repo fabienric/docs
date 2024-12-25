@@ -91,7 +91,7 @@ Next, click on the `Listeners`{.action} tab, then on `Create Listener`{.action}:
 
 |Information|Details|
 |---|---|
-|Name|Specify a name for your listener.|
+|Name|Specify a name for your listener|
 |Protocol|Select the HTTP protocol|
 |Port|Select `80`|
 
